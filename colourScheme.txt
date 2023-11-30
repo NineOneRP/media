@@ -1,0 +1,14 @@
+'Green': {
+  rgb: rgb(149, 193, 31),
+  hex: 95c11f
+},
+
+'white': {
+  rgb: rgb(255, 255, 255),
+  hex: #000000,
+}
+
+'black': {
+  rgb: rgb(0, 0, 0),
+  hex: #FFFFFF,
+}
